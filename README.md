@@ -1,2 +1,2 @@
 # sonake
-tuff
+pip install pygame
